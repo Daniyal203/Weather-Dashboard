@@ -37,5 +37,5 @@ A responsive and interactive weather dashboard built using **HTML**, **CSS**, an
 ## 🙋‍♂️ Author
 
 **Daniyal Baloch**  
-📧 balochdanyal130@gmail.com.com  
+📧 balochdanyal130@gmail.com
 🌐 [LinkedIn](https://www.linkedin.com/in/daniyal-baloch-a92b77324)  
