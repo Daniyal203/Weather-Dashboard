@@ -38,4 +38,4 @@ A responsive and interactive weather dashboard built using **HTML**, **CSS**, an
 
 **Daniyal Baloch**  
 📧 balochdanyal130@gmail.com.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/daniyal-baloch203)  
+🌐 [LinkedIn](www.linkedin.com/in/daniyal-baloch-a92b77324)  
