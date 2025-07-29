@@ -18,7 +18,7 @@ A responsive and interactive weather dashboard built using **HTML**, **CSS**, an
 
 ## 🔗 Live Preview
 
-🌍 [Click here to view the live project](https://dany203.github.io/Weather-Dashboard)
+🌍 [Click here to view the live project](https://daniyal203.github.io/Weather-Dashboard)
 
 
 
